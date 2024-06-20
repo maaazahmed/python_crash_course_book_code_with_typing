@@ -21,3 +21,7 @@ from typing import Union
 
 
 # aliens:list[Typss] = [alien_0, alien_1, alien_2]
+
+number = input("Enter a number, and I'll tell you if it's even or odd: ")
+
+print(number)
